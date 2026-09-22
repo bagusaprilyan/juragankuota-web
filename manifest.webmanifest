@@ -1,0 +1,20 @@
+{
+  "name": "JuraganKuota — Pulsa, Paket Data & TopUp Game 24 Jam",
+  "short_name": "JuraganKuota",
+  "description": "Isi pulsa, paket data, token PLN & top-up game online 24 jam via QRIS.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF7EE",
+  "theme_color": "#FFE600",
+  "lang": "id",
+  "categories": ["shopping", "finance", "utilities"],
+  "icons": [
+    {"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"},
+    {"src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
